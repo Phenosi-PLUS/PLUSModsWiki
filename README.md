@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Phenosi from the ArmA 3 Plus Team
+- 👋 Hi, I’m Phenosi, I make the 'PLUS' series of mods you might of seen on the ArmA 3 Steam Workshop
 - 👀 I’m interested in ARMA 3 modding
 - 🌱 I’m currently learning SQF
 - 📫 How to reach me? go to the [Repair Depot Discord](https://discord.gg/STM3WyvNeJ)
